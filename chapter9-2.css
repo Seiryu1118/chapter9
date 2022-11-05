@@ -73,8 +73,9 @@ footer{
     align-items: center;
  }
   .step-box{
+    width: 90%;
     margin-right: 0;
-    margin-bottom: 30px;
+    margin-bottom: 20px;
   }
   .step-box:last-child{
     margin-bottom: 0;
